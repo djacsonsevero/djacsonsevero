@@ -3,13 +3,13 @@
 
 <p>Bem vindo(a) a minha página! </br> Me chamo Djacson, sou iniciante no mundo do Desenvolvimento Fullstack sou <img src="https://drive.google.com/uc?id=16BLT7LQ5d_6cG_7IrosSxw-q34C0-rg5" width="18"/> <b>Brasileiro</b>, e vivo nas terras capixabas de <img src="https://drive.google.com/uc?id=1nf0n-JfyduQHuAtrLRjkMzlxtQNvaQJA" width="18"/> <b>Vitória, Espírito Santo</b>. </p>
 
-  <div align="hight-center">
+  <div align="center">
   <a href="https://github.com/djacsonsevero">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=djacsonsevero&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djacsonsevero&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"; align="center"><br>
 
   <img align="center" alt="DJ-html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DJ-css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -25,7 +25,7 @@
 
  ##
  
-<div> 
+<div align="center"> 
 
   <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/djacsonsevero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
